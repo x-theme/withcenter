@@ -1,14 +1,19 @@
 <?xml version="1.0"?>
 <config>	
+	<id>theme withcenter</id>
+	<type>theme</theme>
 	<view>none</view>
+	<category>company</category>
 	<name>
 		<en>Withcenter</en>
 		<ko>Withcenter</ko>
 	</name>
 	<version>0.1</version>
+	<author>JaeHo Song</author>
+	<email>thruthesky@gmail.com</email>
 	<short>
-		<en></en>
-		<ko></ko>
+		<en>Withcenter</en>
+		<ko>Withcenter</ko>
 	</short>
 	<detail>
 		<en></en>
