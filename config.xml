@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <config>	
 	<id>theme withcenter</id>
-	<type>theme</theme>
+	<type>theme</type>
 	<view>none</view>
 	<category>company</category>
 	<name>
